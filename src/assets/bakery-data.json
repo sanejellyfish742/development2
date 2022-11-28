@@ -1,0 +1,138 @@
+[
+  {
+    "name": "CIT 101",
+    "description": "A meeting room that features audio-visual capability with Zoom.",
+    "capacity": 25,
+    "image": "101.jpg",
+	"computers": 0,
+	"av": 1
+  },
+  {
+    "name": "CIT 102",
+    "description": "A meeting room that features audio-visual capability with Zoom.",
+    "capacity": 10,
+    "image": "102.jpg",
+	"computers": 0,
+	"av": 1
+  },
+  {
+    "name": "CIT 143 Sunlab",
+    "description": "A lab consisting of 73 Maxbuilt PCs running Linux and two running Windows 7, the Sunlab is the primary computing resource for computer science undergraduates.",
+    "capacity": 135,
+    "image": "143.jpg",
+	"computers": 1,
+	"av": 1
+  },
+  {
+    "name": "CIT 165 Motorola",
+    "description": "A lecture hall with rows of seats. Often used for lectures, recitations, and review sessions.",
+    "capacity": 73,
+    "image": "165.jpg",
+	"computers": 0,
+	"av": 1
+  },
+  {
+    "name": "CIT 167 MLab",
+    "description": "A classroom and cluster of Maxbuilt PCs running Mac and Linux. The MLab is a common location for large labs and for courses which use MacOS.",
+    "capacity": 22,
+    "image": "167.jpg",
+	"computers": 1,
+	"av": 1
+  },
+  {
+    "name": "CIT 201",
+    "description": "A large room with Linux Machines and also desks with monitors, keyboards, and mice that students can hook their laptops up to. This room follows the Sunlab hours.",
+    "capacity": 48,
+    "image": "210.jpg",
+	"computers": 1,
+	"av": 0
+  },
+  {
+    "name": "CIT 219",
+    "description": "A classroom with rolling whiteboards, small tables, projector, and audio-visual capability. ",
+    "capacity": 48,
+    "image": "219.jpg",
+	"computers": 0,
+	"av": 1
+  },
+  {
+    "name": "CIT 227 Moonlab",
+    "description": "A small classroom which is used by classes and for TA hours.",
+    "capacity": 85,
+    "image": "227.jpg",
+	"computers": 0,
+	"av": 1
+  },
+  {
+    "name": "CIT 241 Swig",
+    "description": "A classroom/conference room that features audio-visual capability with Zoom. It's set up with tables and chairs.",
+    "capacity": 45,
+    "image": "241.jpg",
+	"computers": 0,
+	"av": 1
+  },
+  {
+    "name": "CIT 316",
+    "description": "A meeting room and classroom that features audio-visual capability with Zoom.",
+    "capacity": 25,
+    "image": "316.jpg",
+	"computers": 0,
+	"av": 1
+  },
+  {
+    "name": "CIT 368",
+    "description": "A classroom and conference room that features audio-visual capability with Zoom.",
+    "capacity": 56,
+    "image": "368.jpg",
+	"computers": 0,
+	"av": 1
+  },
+  {
+    "name": "CIT 410 Library",
+    "description": "Meeting room, conference room and graduate student lounge that features audio-visual capability with Zoom.",
+    "capacity": 25,
+    "image": "410.jpg",
+	"computers": 0,
+	"av": 1
+  },
+  {
+    "name": "CIT 477 Lubrano",
+    "description": "A classroom and conference room that features audio-visual capability with Zoom.",
+    "capacity": 65,
+    "image": "477.jpg",
+	"computers": 0,
+	"av": 1
+  },
+  {
+    "name": "CIT 506",
+    "description": "A classroom and conference room that features audio-visual capability with Zoom. Smaller and less formal than Lubrano.",
+    "capacity": 30,
+    "image": "506.jpg",
+	"computers": 0,
+	"av": 1
+  },
+  {
+    "name": "CIT 508",
+    "description": "A conference room that can be reserved by students for one-on-one meetings, private calls, or Zooms, but NOT for recurring meetings.",
+    "capacity": 4,
+    "image": "508.jpg",
+	"computers": 0,
+	"av": 0
+  },
+  {
+    "name": "CIT 510",
+    "description": "A conference room that can be reserved by students for one-on-one meetings, private calls, or Zooms, but NOT for recurring meetings.",
+    "capacity": 4,
+    "image": "508.jpg",
+	"computers": 0,
+	"av": 0
+  },
+  {
+    "name": "CIT 512",
+    "description": "A conference room that can be reserved by students for one-on-one meetings, private calls, or Zooms, but NOT for recurring meetings.",
+    "capacity": 4,
+    "image": "512.jpg",
+	"computers": 0,
+	"av": 0
+  }
+]

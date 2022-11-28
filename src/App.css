@@ -13,6 +13,18 @@
   }
 }
 
+.flex {
+   display:flex;
+   flex-wrap:wrap;
+   justify-content:center;
+   gap: 10px
+}
+
+.item{
+   flex-basis:30%; 
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
